@@ -1,2 +1,3 @@
-# C206---B
-Repositório de exercícios 
+# C206 - B
+
+Object-Oriented programming Repository
